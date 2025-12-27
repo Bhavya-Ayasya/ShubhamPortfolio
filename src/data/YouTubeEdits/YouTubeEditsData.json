@@ -1,0 +1,35 @@
+
+{
+  "heading": "YouTube Edits",
+  "description": "We craft YouTube videos that keep viewers watching till the end.",
+  "buttons": [
+    { "label": "Work With Us", "link": "#" },
+    { "label": "Load More Projects", "link": "#" }
+  ],
+  "thumbnails": [
+    {
+      "video": "https://www.youtube.com/embed/70ItzztQxWc?si=tYiECkEfcNJEexN2",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "/assets/videos/video2.mp4",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "/assets/videos/video3.mp4",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    },
+    {
+      "video": "/assets/videos/video4.mp4",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "/assets/videos/video5.mp4",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "/assets/videos/video6.mp4",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    }
+  ]
+}

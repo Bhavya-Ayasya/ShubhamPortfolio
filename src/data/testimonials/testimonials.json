@@ -1,0 +1,43 @@
+{
+  "subHeading": "Testimonials",
+  "heading": "Trusted by creators and brands alike",
+  "description": "Our clients come from different industries but they all share one thing in common.",
+  "items": [
+    {
+      "id": 1,
+      "rating": 4,
+      "text": "The quality and consistency are unmatched. Every edit feels intentional and creative. They’ve become an extension of our in-house team.",
+      "author": "Aman Verma",
+      "role": "Founder, TalkFlow Podcast",
+      "video": "https://www.youtube.com/embed/mlOueU9NOzY?si=KhtFLa9z6hcyhd-J",
+      "thumbnail": "/assets/images/testimonialImg.png"
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "text": "The quality and consistency are unmatched. Every edit feels intentional and creative. They’ve become an extension of our in-house team.",
+      "author": "Aman Verma",
+      "role": "Founder, TalkFlow Podcast",
+      "video": "https://www.youtube.com/embed/FMLMVKpqK6A?si=_W-L4wkJjGCS4gjN",
+      "thumbnail": "/assets/images/testimonialImg.png"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "text": "They made our podcast look and sound like a professional production.",
+      "author": "Aman Verma",
+      "role": "Founder, TalkFlow Podcast",
+      "video": "https://www.youtube.com/embed/5jtv578kJz0?si=5DvRyFzkpSh8ns7c",
+      "thumbnail": "/assets/images/testimonialImg.png"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "text": "The quality and consistency are unmatched. Every edit feels intentional and creative. They’ve become an extension of our in-house team.",
+      "author": "Aman Verma",
+      "role": "Founder, TalkFlow Podcast",
+      "video": "https://www.youtube.com/embed/MGcqiVMfRRA?si=o7uPppWj_Np5Uff1",
+      "thumbnail": "/assets/images/testimonialImg.png"
+    }
+  ]
+}

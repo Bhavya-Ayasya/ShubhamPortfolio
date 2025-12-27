@@ -1,0 +1,24 @@
+{
+  "title": "Let’s Talk",
+  "subtitle": "Got an idea, a podcast, or a video project you’d like to bring to life?",
+  "contactMethods": [
+    {
+      "icon": "📞",
+      "title": "Book a Call",
+      "description": "Schedule a 15-minute call",
+      "link": "https://example.com/book"
+    },
+    {
+      "icon": "✉️",
+      "title": "Email Us",
+      "description": "hello@oneupcreatives.com",
+      "link": "mailto:hello@oneupcreatives.com"
+    },
+    {
+      "icon": "🌐",
+      "title": "Follow Us",
+      "description": "Instagram | LinkedIn | YouTube",
+      "link": "https://example.com/socials"
+    }
+  ]
+}

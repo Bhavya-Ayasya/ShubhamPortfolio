@@ -1,0 +1,35 @@
+
+{
+  "heading": "Thumbnail Gallery",
+  "description": "Every frame tells a story — and these are the stories we’ve helped our clients bring to life...",
+  "buttons": [
+    { "label": "Work With Us", "link": "#" },
+    { "label": "Load More Projects", "link": "#" }
+  ],
+  "thumbnails": [
+    {
+      
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      
+      "thumbnail": "/assets/images/vedioImg3.png"
+    },
+    {
+      
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      
+      "thumbnail": "/assets/images/vedioImg3.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "componentName": "HomeBannerMarquee",
+  "tag": "Creative video editing",
+  "title": "We Edit Stories That Engage.",
+  "subtitle": "From podcasts to product videos, we help creators and brands craft content that connects, converts, and inspires.",
+  "ctaPrimary": "Book a Call",
+  "ctaSecondary": "View Our Work",
+  "tagicon": "/assets/icon/bannertagIcon.png",
+
+  "cards": [
+    {
+      "id": 1,
+      "videoUrl": "https://youtu.be/ZFvOtPun1KE",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "id": 2,
+      "videoUrl": "https://youtu.be/8bKpi-ww3SU",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "id": 3,
+      "videoUrl": "https://youtu.be/tFegWimBCgA",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    },
+    {
+      "id": 4,
+      "videoUrl": "https://youtu.be/MjvJco9866A",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "id": 5,
+      "videoUrl": "https://youtu.be/SzbWPJPCpJE",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "id": 6,
+      "videoUrl": "https://youtu.be/uK26X8lBgF0",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    }
+  ],
+
+  "whoWeAreSection": {
+    "tag": "Who We are",
+    "title": "More than editors",
+    "subtitle": "We specialize in creating impactful video content that helps brands, podcasters, and creators stand out.",
+
+    "images": [
+      { "id": 1, "src": "/assets/images/whoWeAreImg1.png" },
+      { "id": 2, "src": "/assets/images/whoWeAreImg2.png" }
+    ],
+
+    "contentTitle": "At Oneup Creatives, we turn raw footage",
+    "contentText": "into stories that connect, engage, and inspire. We work with podcasters, creators, and brands to help them produce content that not only looks great but feels authentic and performs even better.",
+
+    "ctaPrimary": "Book a Call",
+    "ctaSecondary": "View Our Work"
+  }
+}

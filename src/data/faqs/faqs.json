@@ -1,0 +1,27 @@
+{
+  "title": "Got Questions? We’ve Got Answers.",
+  "subtitleTag": "Frequently Asked Questions",
+  "buttonText": "Still have questions?",
+  "faqs": [
+    {
+      "question": "What kind of videos do you edit?",
+      "answer": "We edit podcasts, commercials, short-form content, long-form videos, and more."
+    },
+    {
+      "question": "Do you work with international clients?",
+      "answer": "Absolutely. We work with clients from all around the world."
+    },
+    {
+      "question": "How does the project process work?",
+      "answer": "We start with a discovery call, gather your assets, then move into editing and revisions."
+    },
+    {
+      "question": "What's the typical turnaround time?",
+      "answer": "Turnaround time varies, but most projects are completed within 3–7 days."
+    },
+    {
+      "question": "Can you help with script or creative direction?",
+      "answer": "Yes! We offer creative direction and script support depending on your needs."
+    }
+  ]
+}

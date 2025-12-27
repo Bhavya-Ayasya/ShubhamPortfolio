@@ -1,0 +1,35 @@
+
+{
+  "heading": "Podcasts",
+  "description": "Clean, distraction-free edits that keep the focus on the conversation.",
+  "buttons": [
+    { "label": "Work With Us", "link": "#" },
+    { "label": "Load More Projects", "link": "#" }
+  ],
+  "thumbnails": [
+    {
+      "video": "https://www.youtube.com/embed/q5NUYsiOub4?si=VSz9t5aJucQtefeW",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "https://www.youtube.com/embed/SzbWPJPCpJE?si=-QVxBEcqvsmBK1pO",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "https://www.youtube.com/embed/bHD0aDnBYMs?si=65Lr-TmgN1KnaRus",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    },
+    {
+      "video": "https://www.youtube.com/embed/kDmCdUYUdqg?si=bfx3YSw2uZroB0lt",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "https://www.youtube.com/embed/q5NUYsiOub4?si=P4AHIFwIZb4gGTlf",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "https://www.youtube.com/embed/EzyPjVB_eA4?si=_bvDT8lYBekk1-FI",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "heading": "Reimagining Conversations –",
+  "subHeading": "The XYZ Podcast Edit",
+
+  "buttons": [
+    {
+      "label": "Book a Call",
+      "link": "#"
+    }
+  ],
+
+  "thumbnails": [
+    {
+      "thumbnail": "/assets/images/caseStudyBanner.png",
+      "video": "/assets/videos/podcast-video.mp4"
+    }
+  ],
+
+  "stats": [
+    { "title": "Client", "value": "XYZ Podcasts" },
+    { "title": "Industry", "value": "Media / Podcasting" },
+    { "title": "Project Duration", "value": "2 Weeks" },
+    { "title": "Year", "value": "2025" }
+  ]
+}

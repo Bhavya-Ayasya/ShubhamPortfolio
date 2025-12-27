@@ -1,0 +1,23 @@
+{
+  "title": "The Challenge",
+
+  "paragraphs": [
+    "When XYZ Podcasts approached us, they were producing insightful episodes — but struggling to keep viewers engaged throughout.",
+    "The videos lacked consistent pacing, visual appeal, and structure to highlight key moments of each conversation."
+  ],
+
+  "cards": [
+    {
+      "title": "Sound Clarity Issues",
+      "description": "Dialogue overlap and mic inconsistency reduced immersion."
+    },
+    {
+      "title": "Long Run-times",
+      "description": "Episodes felt too lengthy and lacked flow."
+    },
+    {
+      "title": "No Social Cutdowns",
+      "description": "Needed adaptable short-form edits for Reels & YouTube Shorts."
+    }
+  ]
+}

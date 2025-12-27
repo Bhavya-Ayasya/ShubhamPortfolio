@@ -1,0 +1,39 @@
+{
+  "section": {
+    "tag": "Services we provide",
+    "title": "Creative solutions",
+    "subtitle": "We specialize in creating impactful video content that helps brands, podcasters, and creators stand out.",
+    "ctaPrimary": "Book a Call",
+    "ctaSecondary": "View Our Work"
+  },
+  "services": [
+    {
+      "id": 1,
+      "icon": "/assets/images/creativeSolutionimg1.png",
+      "title": "Video Editing",
+      "description": "From YouTube videos to branded content we cut, color, and craft visuals that keep viewers engaged from start to finish.",
+      "button": "Start Project"
+    },
+    {
+      "id": 2,
+      "icon": "/assets/images/creativeSolutionimg2.png",
+      "title": "Podcast Editing",
+      "description": "Crisp sound, smooth pacing, and a clean mix that keeps your audience listening every episode, every time.",
+      "button": "Start Project"
+    },
+    {
+      "id": 3,
+      "icon": "/assets/images/creativeSolutionimg3.png",
+      "title": "Motion Graphics",
+      "description": "Subtle animations, titles, and transitions that add polish and energy to your videos.",
+      "button": "Start Project"
+    },
+    {
+      "id": 4,
+      "icon": "/assets/images/creativeSolutionimg4.png",
+      "title": "Content Repurposing",
+      "description": "Turn long–form videos into shorts, reels, or snippets — perfect for social media growth and consistency.",
+      "button": "Start Project"
+    }
+  ]
+}

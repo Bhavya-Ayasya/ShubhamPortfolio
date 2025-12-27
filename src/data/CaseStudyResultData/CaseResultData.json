@@ -1,0 +1,22 @@
+{
+  "title": "The Result",
+  "videoPoster": "/assets/images/caseStudyBanner.png",
+  "videoSrc": "/videos/result-video.mp4",
+  "metrics": [
+    {
+      "icon": "video",
+      "label": "Average Watch Time",
+      "value": "+45% vs. previous uploads"
+    },
+    {
+      "icon": "chart",
+      "label": "Engagement Rate",
+      "value": "+60% interaction boost"
+    },
+    {
+      "icon": "heart",
+      "label": "Audience Growth",
+      "value": "+1.2K new subscribers"
+    }
+  ]
+}

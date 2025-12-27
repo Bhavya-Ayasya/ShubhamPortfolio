@@ -1,0 +1,35 @@
+
+{
+  "heading": "Short-Form Videos",
+  "description": "Fast-paced, scroll-stopping, and made to grab attention in under 10 seconds.",
+  "buttons": [
+    { "label": "Work With Us", "link": "#" },
+    { "label": "Load More Projects", "link": "#" }
+  ],
+  "thumbnails": [
+    {
+      "video": "/assets/videos/video1.mp4",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "/assets/videos/video2.mp4",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "/assets/videos/video3.mp4",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    },
+    {
+      "video": "/assets/videos/video4.mp4",
+      "thumbnail": "/assets/images/vedioImage1.png"
+    },
+    {
+      "video": "/assets/videos/video5.mp4",
+      "thumbnail": "/assets/images/vedioImg2.png"
+    },
+    {
+      "video": "/assets/videos/video6.mp4",
+      "thumbnail": "/assets/images/vedioImg3.png"
+    }
+  ]
+}

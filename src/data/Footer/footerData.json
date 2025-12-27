@@ -1,0 +1,29 @@
+{
+  "componentName": "FooterComponent",
+  "logo": "/assets/icon/headerIcon.svg",
+  "menu": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Work", "href": "/work" },
+    { "label": "Clients", "href": "/clients" }
+  ],
+  "copyright": "All rights reserved",
+  "socialIcons": [
+    {
+      "id": 1,
+      "icon": "/assets/icon/instagramIcon.svg",
+      "href": "https://instagram.com"
+    },
+    {
+      "id": 2,
+      "icon": "/assets/icon/youtubeIcon.svg",
+      "href": "https://youtube.com"
+    },
+    {
+      "id": 3,
+      "icon": "/assets/icon/linkdinIcon.svg",
+      "href": "https://linkedin.com"
+    }
+  ]
+}

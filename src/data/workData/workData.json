@@ -1,0 +1,38 @@
+{
+  "sectionTag": "Projects",
+  "heading": "Work that speaks for itself",
+  "description": "From podcasters to SaaS brands, we’ve helped creators tell stories through visuals that convert.",
+  "primaryButton": "Book a Call",
+  "secondaryButton": "View More Work",
+
+  "videos": [
+    {
+      "id": 1,
+      "title": "SIRLAR Case Study",
+      "thumbnail": "/assets/images/vedioImage1.png",
+      "videoUrl": "https://www.youtube.com/embed/qI1CJYNpv5Q?si=azZjqIpzJbGhbK5C",
+      "cta": "view Case study"
+    },
+    {
+      "id": 2,
+      "title": "Billionaire Habits",
+      "thumbnail": "/assets/images/vedioImg2.png",
+      "videoUrl": "https://www.youtube.com/embed/h7Pg4hIeBmc?si=9za5h6cmnXJcA958",
+      "cta": "view Case study"
+    },
+    {
+      "id": 3,
+      "title": "Billionaire Habits 2",
+      "thumbnail": "/assets/images/vedioImage1.png",
+      "videoUrl": "https://www.youtube.com/embed/tFegWimBCgA?si=CmbvpIbaFACbccGd",
+      "cta": "view Case study"
+    },
+    {
+      "id": 4,
+      "title": "SIRLAR Promo",
+      "thumbnail": "/assets/images/vedioImg2.png",
+      "videoUrl": "https://www.youtube.com/embed/uK26X8lBgF0?si=JJWZ2eaukskblgJK",
+      "cta": "view Case study"
+    }
+  ]
+}

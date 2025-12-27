@@ -1,0 +1,26 @@
+{
+  "title": "The Process",
+  "description": "Every project at Oneup Creatives follows a structured yet flexible creative flow — designed to bring out the best in every frame.",
+  "steps": [
+    {
+      "tag": "Discovery",
+      "title": "Understanding the Vision",
+      "description": "Every great edit starts with clarity. We begin by understanding the client’s goals, target audience, and desired tone."
+    },
+    {
+      "tag": "Editing & Storybuilding",
+      "title": "Finding the Flow",
+      "description": "This is where ideas come alive. We structure the narrative, trim redundancies."
+    },
+    {
+      "tag": "Design & Sound",
+      "title": "Adding Creative Depth",
+      "description": "We enhance the visuals with clean graphics, color grading, and sound design that amplifies emotion."
+    },
+    {
+      "tag": "Delivery",
+      "title": "Ready to Publish",
+      "description": "We render in platform-optimized formats, ensuring quality, consistency, and on-time delivery. From YouTube to Instagram."
+    }
+  ]
+}

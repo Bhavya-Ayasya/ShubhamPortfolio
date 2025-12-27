@@ -1,0 +1,18 @@
+{
+  "logo": {
+    "image": "/assets/icon/headerIcon.svg"
+  },
+  "links": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "portfolio", "href": "/portfolio" },
+    { "label": "case studies", "href": "/case-studies" }
+  ],
+  "cta": {
+    "label": "Start a Project",
+    "href": "/start-project",
+    "icon":"/assets/icon/arrowIcon.png"
+  }
+
+}
