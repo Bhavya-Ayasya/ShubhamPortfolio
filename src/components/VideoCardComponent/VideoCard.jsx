@@ -6,7 +6,7 @@ export default function VideoCard({ card }) {
 
   return (
     <div
-      className="inline-block w-80 h-48 mr-6 rounded-xl overflow-hidden bg-[#0d0f1a] cursor-pointer"
+      className="inline-block w-[350px] h-64 mr-6 rounded-xl overflow-hidden bg-[#0d0f1a] cursor-pointer"
       onClick={() => setPlay(true)}
     >
       {!play ? (

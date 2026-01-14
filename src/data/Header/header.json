@@ -6,8 +6,8 @@
     { "label": "Home", "href": "/" },
     { "label": "About", "href": "/about" },
     { "label": "Services", "href": "/services" },
-    { "label": "portfolio", "href": "/portfolio" },
-    { "label": "case studies", "href": "/case-studies" }
+    { "label": "Portfolio", "href": "/portfolio" },
+    { "label": "Case Studies", "href": "/case-studies" }
   ],
   "cta": {
     "label": "Start a Project",

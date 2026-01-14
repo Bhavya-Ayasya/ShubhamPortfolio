@@ -1,7 +1,7 @@
 {
   "componentName": "HomeBannerMarquee",
   "tag": "Creative video editing",
-  "title": "We Edit Stories That Engage.",
+  "title": "Stories That Engage.",
   "subtitle": "From podcasts to product videos, we help creators and brands craft content that connects, converts, and inspires.",
   "ctaPrimary": "Book a Call",
   "ctaSecondary": "View Our Work",
@@ -10,32 +10,27 @@
   "cards": [
     {
       "id": 1,
-      "videoUrl": "https://youtu.be/ZFvOtPun1KE",
+      "videoUrl": "https://www.youtube.com/embed/uK26X8lBgF0?si=O8I4qruAQIZoeXM_",
       "thumbnail": "/assets/images/vedioImage1.png"
     },
     {
       "id": 2,
-      "videoUrl": "https://youtu.be/8bKpi-ww3SU",
+      "videoUrl": "https://www.youtube.com/embed/SzbWPJPCpJE?si=ZvTHPH9MMMttFEqX",
       "thumbnail": "/assets/images/vedioImg2.png"
     },
     {
       "id": 3,
-      "videoUrl": "https://youtu.be/tFegWimBCgA",
+      "videoUrl": "https://www.youtube.com/embed/UFbtXYbLPaI?si=bD9y4_0BMdYOf9YH",
       "thumbnail": "/assets/images/vedioImg3.png"
     },
     {
       "id": 4,
-      "videoUrl": "https://youtu.be/MjvJco9866A",
+      "videoUrl": "https://www.youtube.com/embed/q5NUYsiOub4?si=c87YUqIcog3dP17h",
       "thumbnail": "/assets/images/vedioImage1.png"
     },
     {
       "id": 5,
-      "videoUrl": "https://youtu.be/SzbWPJPCpJE",
-      "thumbnail": "/assets/images/vedioImage1.png"
-    },
-    {
-      "id": 6,
-      "videoUrl": "https://youtu.be/uK26X8lBgF0",
+      "videoUrl": "https://www.youtube.com/embed/tFegWimBCgA?si=kJW3G6grEdLlzU8l",
       "thumbnail": "/assets/images/vedioImage1.png"
     }
   ],

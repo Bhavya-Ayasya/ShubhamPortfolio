@@ -8,27 +8,27 @@
   ],
   "thumbnails": [
     {
-      "video": "/assets/videos/video1.mp4",
+      "video": "https://youtube.com/shorts/TxqU1Q9i4aY?si=v6xxUgued7eRj9nz",
       "thumbnail": "/assets/images/vedioImage1.png"
     },
     {
-      "video": "/assets/videos/video2.mp4",
+      "video": "https://youtube.com/shorts/Je7RIyPamcE?si=CDco1gD-ArsrMY30",
       "thumbnail": "/assets/images/vedioImg2.png"
     },
     {
-      "video": "/assets/videos/video3.mp4",
+      "video": "https://youtube.com/shorts/Ji-zKF3Hvvc?si=5jscjM5HghUh6Ecq",
       "thumbnail": "/assets/images/vedioImg3.png"
     },
     {
-      "video": "/assets/videos/video4.mp4",
+      "video": "https://youtube.com/shorts/RbqMVcsp9n0?si=HQELtivnk-zWPiA3",
       "thumbnail": "/assets/images/vedioImage1.png"
     },
     {
-      "video": "/assets/videos/video5.mp4",
+      "video": "https://youtube.com/shorts/MQF3EGjdn_o?si=GUETMicl-eNO8_bC",
       "thumbnail": "/assets/images/vedioImg2.png"
     },
     {
-      "video": "/assets/videos/video6.mp4",
+      "video": "https://youtube.com/shorts/dREd-DEfSGc?si=nahYvWrzqvaj1_JS",
       "thumbnail": "/assets/images/vedioImg3.png"
     }
   ]

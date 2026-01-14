@@ -10,29 +10,43 @@
       "id": 1,
       "title": "SIRLAR Case Study",
       "thumbnail": "/assets/images/vedioImage1.png",
-      "videoUrl": "https://www.youtube.com/embed/qI1CJYNpv5Q?si=azZjqIpzJbGhbK5C",
-      "cta": "view Case study"
+      "videoUrl": "https://www.youtube.com/embed/bHD0aDnBYMs?si=5xeOH8MWkpwUem5x",
+      "cta": "view Case Study"
     },
     {
       "id": 2,
       "title": "Billionaire Habits",
       "thumbnail": "/assets/images/vedioImg2.png",
-      "videoUrl": "https://www.youtube.com/embed/h7Pg4hIeBmc?si=9za5h6cmnXJcA958",
-      "cta": "view Case study"
+      "videoUrl": "https://www.youtube.com/embed/h7Pg4hIeBmc?si=5f52ZUmST-oaR2Va",
+      "cta": "view Case Study"
     },
     {
       "id": 3,
       "title": "Billionaire Habits 2",
       "thumbnail": "/assets/images/vedioImage1.png",
-      "videoUrl": "https://www.youtube.com/embed/tFegWimBCgA?si=CmbvpIbaFACbccGd",
-      "cta": "view Case study"
+      "videoUrl": "https://www.youtube.com/embed/Akq2UNm3Zys?si=nKLOC2lCFlmiS8Fh",
+      "cta": "view Case Study"
     },
     {
       "id": 4,
       "title": "SIRLAR Promo",
       "thumbnail": "/assets/images/vedioImg2.png",
-      "videoUrl": "https://www.youtube.com/embed/uK26X8lBgF0?si=JJWZ2eaukskblgJK",
-      "cta": "view Case study"
+      "videoUrl": "https://www.youtube.com/embed/8bKpi-ww3SU?si=W8HVSkjaSn9Vghe3",
+      "cta": "view Case Study"
+    },
+    {
+      "id": 5,
+      "title": "SIRLAR Promo",
+      "thumbnail": "/assets/images/vedioImg2.png",
+      "videoUrl": "https://www.youtube.com/embed/bCLYzD6RC7A?si=CtjMdndNmWMQVW0m",
+      "cta": "view Case Study"
+    },
+    {
+      "id": 6,
+      "title": "SIRLAR Promo",
+      "thumbnail": "/assets/images/vedioImg2.png",
+      "videoUrl": "https://www.youtube.com/embed/Hvr9pbdwHDE?si=g_tOOcE4CcfK6LTL",
+      "cta": "view Case Study"
     }
   ]
 }

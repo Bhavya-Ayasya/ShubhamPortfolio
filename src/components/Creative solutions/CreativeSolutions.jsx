@@ -6,7 +6,7 @@ export default function CreativeSolutions({ CreativeSolutionsData }) {
         <div className="flex  md:flex-row flex-col justify-between gap-5">
           {/* LEFT CONTENT */}
           <div className="mb-12 md:max-w-[450px] w-full">
-            <p className="px-4 py-1 rounded-full bg-[#ff55001a] text-[#E12501] text-sm max-w-[168px] w-full">
+            <p className="px-4 py-1 rounded-full bg-[#ff55001a] text-[#E12501] text-sm max-w-[220px] w-full">
               {CreativeSolutionsData.section.tag}
             </p>
 
@@ -52,7 +52,7 @@ export default function CreativeSolutions({ CreativeSolutionsData }) {
 
                   <button className="bg-[#FFFFFF1A] hover:bg-[#FFFFFF1A] text-sm px-4 py-2.5 rounded-[10px] flex items-center gap-2 cursor-pointer md:block hidden">
                     {service.button}
-                    <span>›</span>
+                    <span className="ml-2.5">›</span>
                   </button>
                 </div>
               </div>
