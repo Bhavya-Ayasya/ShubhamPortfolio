@@ -9,27 +9,27 @@
   "thumbnails": [
     {
       
-      "thumbnail": "/assets/images/vedioImage1.png"
+      "thumbnail": "/assets/images/thumbnails/1.jpg"
     },
     {
       
-      "thumbnail": "/assets/images/vedioImg2.png"
+      "thumbnail": "/assets/images/thumbnails/2.jpg"
     },
     {
       
-      "thumbnail": "/assets/images/vedioImg3.png"
+      "thumbnail": "/assets/images/thumbnails/3.jpg"
     },
     {
       
-      "thumbnail": "/assets/images/vedioImage1.png"
+      "thumbnail": "/assets/images/thumbnails/4.jpg"
     },
     {
       
-      "thumbnail": "/assets/images/vedioImg2.png"
+      "thumbnail": "/assets/images/thumbnails/5.jpg"
     },
     {
       
-      "thumbnail": "/assets/images/vedioImg3.png"
+      "thumbnail": "/assets/images/thumbnails/6.jpg"
     }
   ]
 }
