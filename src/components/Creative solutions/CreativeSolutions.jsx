@@ -3,9 +3,9 @@ export default function CreativeSolutions({ CreativeSolutionsData }) {
   return (
     <section className="bg-black text-white px-6  lg:px-20 md:py-[60px] py-10 lg:py-20">
       <div className="max-w-7xl mx-auto ">
-        <div className="flex  md:flex-row flex-col justify-between gap-5">
+        <div className="flex  lg:flex-row flex-col justify-between gap-5">
           {/* LEFT CONTENT */}
-          <div className="mb-12 md:max-w-[450px] w-full">
+          <div className="mb-12 lg:max-w-112.5 w-full">
             <p className="px-4 py-1 rounded-full bg-[#ff55001a] text-[#E12501] text-sm max-w-[220px] w-full">
               {CreativeSolutionsData.section.tag}
             </p>
@@ -29,16 +29,16 @@ export default function CreativeSolutions({ CreativeSolutionsData }) {
           </div>
 
           {/* SERVICES RIGHT LIST */}
-          <div className="flex flex-col gap-10">
+          <div className="grid grid-cols-2 gap-10">
             {CreativeSolutionsData.services.map((service) => (
               <div
                 key={service.id}
-                className="bg-[#0E0E0E] rounded-[20px] flex items-center justify-between p-5 lg:py-[66px] lg:px-[42px] max-w-[687px] " 
+                className="bg-[#0E0E0E] rounded-[20px] flex flex-col items-center justify-between p-5 lg:py-5 lg:px-5 max-w-171.75 w-full" 
               >
                 <img
                   src={service.icon}
                   alt={service.title}
-                  className=" max-w-20 xl:max-w-[228px] w-full block"
+                  className=" max-w-20 xl:max-w-32 w-full block"
                 />
 
                 <div className="flex-1 ml-8">

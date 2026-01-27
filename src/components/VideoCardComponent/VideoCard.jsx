@@ -6,7 +6,7 @@ export default function VideoCard({ card }) {
 
   return (
     <div
-      className="inline-block w-[350px] h-64 mr-6 rounded-xl overflow-hidden bg-[#0d0f1a] cursor-pointer"
+      className="inline-block w-[350px] mr-6 rounded-xl overflow-hidden bg-[#0d0f1a] cursor-pointer"
       onClick={() => setPlay(true)}
     >
       {!play ? (
@@ -14,7 +14,7 @@ export default function VideoCard({ card }) {
         <img
           src={card.thumbnail}
           alt="thumbnail"
-          className="w-full h-full object-cover"
+          className="w-full"
         />
       ) : (
         // Iframe video autoplay
