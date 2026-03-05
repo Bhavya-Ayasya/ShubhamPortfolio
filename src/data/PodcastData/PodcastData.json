@@ -9,27 +9,27 @@
   "thumbnails": [
     {
       "video": "https://www.youtube.com/embed/kDmCdUYUdqg?si=KNyq69hs3w1gLcmP",
-      "thumbnail": "/assets/images/vedioImage1.png"
+      "thumbnail": "/assets/images/podcasts/1.jpg"
     },
     {
       "video": "https://www.youtube.com/embed/qI1CJYNpv5Q?si=A7mz4r7Z82TWV5Ly",
-      "thumbnail": "/assets/images/vedioImg2.png"
+      "thumbnail": "/assets/images/podcasts/2.jpg"
     },
     {
       "video": "https://www.youtube.com/embed/EzyPjVB_eA4?si=SO0TDhhxCB8q0Twj",
-      "thumbnail": "/assets/images/vedioImg3.png"
+      "thumbnail": "/assets/images/podcasts/3.jpg"
     },
     {
       "video": "https://www.youtube.com/embed/SzbWPJPCpJE?si=iwfJ-0CE1wBbJ0C6",
-      "thumbnail": "/assets/images/vedioImage1.png"
+      "thumbnail": "/assets/images/podcasts/4.jpg"
     },
     {
       "video": "https://www.youtube.com/embed/8bKpi-ww3SU?si=Xj_VNkhRQVmZGDj1",
-      "thumbnail": "/assets/images/vedioImg2.png"
+      "thumbnail": "/assets/images/podcasts/5.jpg"
     },
     {
       "video": "https://www.youtube.com/embed/q5NUYsiOub4?si=Wa3rHJWAbW1JF90P",
-      "thumbnail": "/assets/images/vedioImg3.png"
+      "thumbnail": "/assets/images/podcasts/6.jpg"
     }
   ]
 }

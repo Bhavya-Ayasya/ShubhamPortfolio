@@ -11,8 +11,8 @@ const page = () => {
     <>
     <HeadingComponent/>
     <ThumbnailGallery data = {ShortFormData}/>
-    <ThumbnailGallery data = {ThumbnailGalleryData}/>
     <ThumbnailGallery data = {YoutubeEditData}/>
+    <ThumbnailGallery data = {ThumbnailGalleryData}/>
     <ThumbnailGallery data = {PodcastData}/>
       <FAQSection />
       <ContactSection />

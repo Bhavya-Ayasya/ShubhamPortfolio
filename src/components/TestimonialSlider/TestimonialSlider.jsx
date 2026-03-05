@@ -1,39 +1,25 @@
-"use client";
 
-import { useRef, useState } from "react";
+
+
+"use client";
 
 /* ---------- Helpers ---------- */
 const isYouTubeUrl = (url) =>
   url?.includes("youtube.com") || url?.includes("youtu.be");
 
 const getYouTubeEmbedUrl = (url) => {
-  if (url.includes("embed")) return url + "?autoplay=1";
+  if (url.includes("embed")) return url + "?autoplay=1&mute=1";
 
   const videoId = url.includes("youtu.be")
     ? url.split("youtu.be/")[1]
     : new URL(url).searchParams.get("v");
 
-  return `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+  return `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`;
 };
 
 /* ---------- Component ---------- */
 export default function TestimonialSlider({ testimonialsData }) {
   const { subHeading, heading, description, items } = testimonialsData;
-
-  const [activeVideo, setActiveVideo] = useState(null);
-  const videoRefs = useRef([]);
-
-  const toggleVideo = (id, index) => {
-    videoRefs.current.forEach((v) => v?.pause?.());
-
-    if (activeVideo === id) {
-      videoRefs.current[index]?.pause?.();
-      setActiveVideo(null);
-    } else {
-      videoRefs.current[index]?.play?.();
-      setActiveVideo(id);
-    }
-  };
 
   return (
     <section className="py-20 px-4 max-w-[1300px] mx-auto overflow-hidden">
@@ -63,55 +49,23 @@ export default function TestimonialSlider({ testimonialsData }) {
               <div className="bg-[#141414] rounded-2xl p-6 h-full flex flex-col">
                 {/* VIDEO */}
                 {item.video && (
-                  <div className="relative rounded-xl overflow-hidden mb-4 cursor-pointer">
-                    {/* YOUTUBE */}
+                  <div className="rounded-xl overflow-hidden mb-4">
                     {isYouTubeUrl(item.video) ? (
-                      activeVideo === item.id ? (
-                        <iframe
-                          src={getYouTubeEmbedUrl(item.video)}
-                          className="w-full h-[200px]"
-                          allow="autoplay; encrypted-media"
-                          allowFullScreen
-                        />
-                      ) : (
-                        <div onClick={() => setActiveVideo(item.id)}>
-                          <img
-                            src={item.thumbnail}
-                            className="w-full h-[200px] object-cover"
-                            alt=""
-                          />
-                          <img
-                            src="/assets/icon/playIcon.png"
-                            className="absolute inset-0 m-auto w-14"
-                            alt=""
-                          />
-                        </div>
-                      )
+                      <iframe
+                        src={getYouTubeEmbedUrl(item.video)}
+                        className="w-full h-[200px]"
+                        allow="autoplay; encrypted-media"
+                        allowFullScreen
+                      />
                     ) : (
-                      /* MP4 / NORMAL VIDEO */
-                      <>
-                        <video
-                          ref={(el) => (videoRefs.current[index] = el)}
-                          src={item.video}
-                          className="w-full h-[200px] object-cover"
-                          playsInline
-                        />
-
-                        {activeVideo !== item.id && (
-                          <div onClick={() => toggleVideo(item.id, index)}>
-                            <img
-                              src={item.thumbnail}
-                              className="absolute inset-0 w-full h-full object-cover"
-                              alt=""
-                            />
-                            <img
-                              src="/assets/icon/playIcon.png"
-                              className="absolute inset-0 m-auto w-14"
-                              alt=""
-                            />
-                          </div>
-                        )}
-                      </>
+                      <video
+                        src={item.video}
+                        className="w-full h-[200px] object-cover"
+                        autoPlay
+                        muted
+                        loop
+                        playsInline
+                      />
                     )}
                   </div>
                 )}
