@@ -53,7 +53,7 @@ export default function ThumbnailGallery({ data }) {
 
   return (
     <div className="mb-16 px-4 sm:px-0">
-      <div className="max-w-7xl w-full mx-auto bg-[#1a1a1a] rounded-3xl px-5 py-8 sm:p-12 text-center">
+      <div className="max-w-7xl w-full mx-auto bg-[#1a1a1a] rounded-3xl py-8 sm:p-12 text-center">
         {/* Heading */}
         <div className="max-w-[700px] mx-auto">
           <h2 className="text-2xl md:text-4xl font-bold mb-3">

@@ -51,13 +51,13 @@ export default function Header() {
       ">
         
         {/* Logo */}
-        <a href="/">
+        <Link href="/">
         <Image 
           src={navData.logo.image}
           alt={navData.logo.name}
           width={90}
           height={40}
-        /></a>
+        /></Link>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex gap-3.5 lg:gap-8 text-white text-base font-medium">

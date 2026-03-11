@@ -1,7 +1,7 @@
 export default function CreativeSolutions({ CreativeSolutionsData }) {
 
   return (
-    <section className="bg-black text-white px-6  lg:px-20 md:py-[60px] py-10 lg:py-20">
+    <section id="creativeSolution" className="bg-black text-white px-6  lg:px-20 md:py-[60px] py-10 lg:py-20">
       <div className="max-w-7xl mx-auto ">
         <div className="flex  lg:flex-row flex-col justify-between gap-5">
           {/* LEFT CONTENT */}

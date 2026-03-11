@@ -4,7 +4,7 @@ export default function WhoWeAreSection({ data }) {
   const section = data.whoWeAreSection;
 
   return (
-    <section className="bg-black text-white md:px-6 px-5 lg:px-20 lg:py-20 md:py-[60px] py-10">
+    <section id="aboutSection" className="bg-black text-white md:px-6 px-5 lg:px-20 lg:py-20 md:py-[60px] py-10">
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
 
         {/* LEFT CONTENT */}

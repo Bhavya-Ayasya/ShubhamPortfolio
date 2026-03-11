@@ -41,8 +41,8 @@
     "subtitle": "We specialize in creating impactful video content that helps brands, podcasters, and creators stand out.",
 
     "images": [
-      { "id": 1, "src": "/assets/images/whoWeAreImg1.png" },
-      { "id": 2, "src": "/assets/images/whoWeAreImg2.png" }
+      { "id": 1, "src": "/assets/images/companyLogo.jpeg" },
+      { "id": 2, "src": "/assets/images/teamImage1.jpeg" }
     ],
 
     "contentTitle": "At Oneup Creatives, we turn raw footage",

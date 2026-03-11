@@ -4,8 +4,8 @@
   },
   "links": [
     { "label": "Home", "href": "/" },
-    { "label": "About", "href": "/about" },
-    { "label": "Services", "href": "/services" },
+    { "label": "About", "href": "#aboutSection" },
+    { "label": "Services", "href": "#creativeSolution" },
     { "label": "Portfolio", "href": "/portfolio" },
     { "label": "Case Studies", "href": "/case-studies" }
   ],
