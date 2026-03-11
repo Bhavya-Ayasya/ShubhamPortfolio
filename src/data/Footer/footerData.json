@@ -3,8 +3,8 @@
   "logo": "/assets/icon/headerIcon.svg",
   "menu": [
     { "label": "Home", "href": "/" },
-    { "label": "About", "href": "/about" },
-    { "label": "Services", "href": "/services" },
+    { "label": "About", "href": "#aboutSection" },
+    { "label": "Services", "href": "#creativeSolution" },
     { "label": "Work", "href": "/work" },
     { "label": "Clients", "href": "/clients" }
   ],
